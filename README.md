@@ -1,2 +1,2 @@
 # MyShop
-This is a repository for Online Store Database (Myshop) project.
+This is a repository for Online Store Database (Myshop).
