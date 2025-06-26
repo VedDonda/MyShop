@@ -36,19 +36,6 @@ This project contains a normalized PostgreSQL database schema for an **Online St
 
 ---
 
-### ⚙️ How to Use
-
-1. **Create a PostgreSQL database**
-2. **Run the scripts in order:**
-
-   ```bash
-   psql -d your_database_name -f schema.sql
-   psql -d your_database_name -f functions.sql
-   psql -d your_database_name -f triggers.sql
-   ```
-
----
-
 ### 🧪 Example Use Cases
 
 * Add a new product to a vendor’s shop.
