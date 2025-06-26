@@ -51,6 +51,5 @@ This project contains a normalized PostgreSQL database schema for an **Online St
 * Relational Database Design (Normalization, Foreign Keys)
 * Triggers and Stored Procedures
 * Time-based logic and constraints
-* E-commerce data modeling
 
 ---
