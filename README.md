@@ -67,11 +67,3 @@ This project contains a normalized PostgreSQL database schema for an **Online St
 * E-commerce data modeling
 
 ---
-
-### 📌 Note
-
-This is a backend-only database schema. You can extend it with an API or frontend as needed.
-
----
-
-Let me know if you’d like a [sample dataset to test the schema](f) or want to [add views or analytics queries](f).
